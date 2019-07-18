@@ -1,0 +1,1 @@
+These are scripts I wrote a couple years back. Code is a little messy. I write cleaner code now :)
